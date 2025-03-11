@@ -1,2 +1,2 @@
 # Framework 
-![image alt](https://github.com/muntasirmahmud1/Hyperspectral-Imaging/blob/39b21fb574d2f24b60b9774267fb534dd3948d37/Image/framework.png)
+![image alt](https://github.com/muntasirmahmud1/Hyperspectral-Imaging/blob/a58dde5d609d776fe46ea6e141e8f15be120b73f/Image/framework2.png)
